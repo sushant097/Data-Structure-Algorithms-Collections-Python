@@ -6,4 +6,4 @@ Hope it helps you. Don't forgot to :star:.
 # Data Structure
 | Name | Completed | Tested |
 | :----: | :----: | :----: |
-| LinkedList | <ul><li>- [x] Completed</li></ul> | <ul><li>- [x] Tested</li></ul> |
+| LinkedList | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
