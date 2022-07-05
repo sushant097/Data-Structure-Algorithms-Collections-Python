@@ -7,11 +7,18 @@ In this repo I upload everything I do related to data structures and algorithm t
 
 Hope it helps you. Don't forgot to :star:.
 
-# Data Structure Implementation
-### Linked List
+# Linked List
 | Name | Completed | Tested |
 | :----: | :----: | :----: |
 | [LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/LinkedList.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
 | [Circular LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/CircularSinglyLinkedList.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
 | [Doubly LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/DoublyLinkedList.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
 | [Queue with LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/QueueLinkedList.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
+
+# Tree
+| Name | Completed | Tested |
+| :----: | :----: | :----: |
+| [Binary Tree](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTree.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
+
+# Contributing
+I appreciate feedback on potential improvements and/or if you see an error that I've made! Also if you would like to contribute then do a pull request with algorithm implementation & tests! :)
