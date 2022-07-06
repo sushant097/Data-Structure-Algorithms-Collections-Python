@@ -5,21 +5,28 @@
 # Data Structues and Algorithms Collection Python
 In this repo I upload everything I do related to data structures and algorithm that I learned to solve, implement it. The goal of this repo is to have simple readable scratch implementation of data structures with notes and proper documentation. Along with Coding Interview problems and its solutions.
 
-Hope it helps you. Don't forgot to :star:.
+:white_check_mark: : If the implementation completed or tested.
+:negative_squared_cross_mark: : If the implementation incomplete or untested.
 
 # Linked List
+* :white_check_mark: [LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/LinkedList.py)
+* :white_check_mark: [Circular LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/CircularSinglyLinkedList.py)
+* :white_check_mark: [Doubly LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/DoublyLinkedList.py)
+* :white_check_mark: [Queue with LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/QueueLinkedList.py)
+
 | Name | Completed | Tested |
 | :----: | :----: | :----: |
-| [LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/LinkedList.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
-| [Circular LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/CircularSinglyLinkedList.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
-| [Doubly LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/DoublyLinkedList.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
-| [Queue with LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/QueueLinkedList.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
+| [LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/LinkedList.py) | :white_check_mark: | :white_check_mark: |
+| [Circular LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/CircularSinglyLinkedList.py) | :white_check_mark: | :white_check_mark: |
+| [Doubly LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/DoublyLinkedList.py) | :white_check_mark: | :white_check_mark: |
+| [Queue with LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/QueueLinkedList.py) | :white_check_mark: | :white_check_mark: |
+
 
 # Tree
 | Name | Completed | Tested |
 | :----: | :----: | :----: |
-| [Binary Tree By LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreeLL.py) | <ul><li>- :heavy_check_mark: </li></ul> | <ul><li>- [x] </li></ul> |
-| [Binary Tree By PythonList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreePL.py) | <ul><li>- [] </li></ul> | <ul><li>- [] </li></ul> |
+| [Binary Tree By LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreeLL.py) |  :white_check_mark: | :white_check_mark: |
+| [Binary Tree By PythonList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreePL.py) | :negative_squared_cross_mark: | :negative_squared_cross_mark: |
 
 
 # Contributing
