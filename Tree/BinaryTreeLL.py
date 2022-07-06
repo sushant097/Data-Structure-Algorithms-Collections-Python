@@ -122,6 +122,7 @@ def insertNodeBT(rootNode, newNode):
                 return "New Value inserted sucessfully!"
 
 def getFarthestNode(rootNode):
+    # Time: O(n); Space: O(n)
     if not rootNode:
         return
     else:
@@ -136,6 +137,77 @@ def getFarthestNode(rootNode):
                 customQueue.enqueue(root.value.rightChild)
         # the last node is farthest among all
         return root.value
+
+def deleteFarthestNode(rootNode, fNode):
+    # Time: O(n); Space: O(n)
+    if not rootNode:
+        return 
+
+    else:
+        customQueue = Queue()
+        customQueue.enqueue(rootNode)
+        while not customQueue.isEmpty():
+            root = customQueue.dequeue()
+
+            if root.value is fNode:
+                root.value = None
+                return 
+            if root.value.rightChild:
+                if root.value.rightChild is fNode:
+                    root.value.rightChild = None
+                    return 
+                else:
+                    customQueue.enqueue(root.value.rightChild)
+
+                if root.value.leftChild:
+                    if root.value.leftChild is fNode:
+                        root.value.leftChild = None
+                        return 
+                    else:
+                        customQueue.enqueue(root.value.leftChild)
+
+def deleteNodeBT(rootNode, node):
+    # We use LevelOrderTraversal to search node
+    # If we found the node to delete
+    # We get the farthest node and
+    # Replace node to delete with farthest node
+    # And delete farthest node
+    # Note: We can't directly delete the given node since
+    #       Other nodes linked with it also gets deleted
+    # Time: O(n); Space: O(n)
+    if not rootNode:
+        return "The BT does not exist"
+    else:
+        customQueue = Queue()
+        customQueue.enqueue(rootNode)
+        while not customQueue.isEmpty():
+            root = customQueue.dequeue()
+            if root.value.data == node:
+                dNode = getFarthestNode(rootNode)
+                root.value.data = dNode.data
+                deleteFarthestNode(rootNode, dNode)
+                return "The node has been sucesfully deleted"
+            
+            if root.value.leftChild is not None:
+                customQueue.enqueue(root.value.leftChild)
+            if root.value.rightChild is not None:
+                customQueue.enqueue(root.value.rightChild)
+        return "Failed to delete"
+
+def deleteEntireBT(rootNode):
+    # We have implemented BT with linked list
+    # Simply make rootNode -> None
+    # And left child and right child of rootNode both -> None
+    # This will delete entire BT by garbage collector
+    # Time: O(1); Space: O(1)
+    if not rootNode:
+        return "The BT does not exist"
+    
+    rootNode.data = None
+    rootNode.leftChild = None
+    rootNode.rightChild = None
+
+    return "Sucessfully deletion of entire BT."
 
 preOrderTraversal(BT)
 print("###########")
@@ -154,3 +226,14 @@ levelOrderTraversal(BT)
 print("#########")
 farthestNode = getFarthestNode(BT)
 print(farthestNode.data)
+print("######")
+# deleteFarthestNode(BT, farthestNode)
+# levelOrderTraversal(BT)
+# print("####")
+
+deleteNodeBT(BT, 'Mobile')
+levelOrderTraversal(BT)
+# Deletion of Entire BT
+print("##########")
+deleteEntireBT(BT)
+levelOrderTraversal(BT)
