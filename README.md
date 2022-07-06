@@ -18,8 +18,8 @@ Hope it helps you. Don't forgot to :star:.
 # Tree
 | Name | Completed | Tested |
 | :----: | :----: | :----: |
-| [Binary Tree By LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreeLL.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
-| [Binary Tree By PythonList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreePL.py) | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
+| [Binary Tree By LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreeLL.py) | <ul><li>- :heavy_check_mark: </li></ul> | <ul><li>- [x] </li></ul> |
+| [Binary Tree By PythonList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreePL.py) | <ul><li>- [] </li></ul> | <ul><li>- [] </li></ul> |
 
 
 # Contributing
