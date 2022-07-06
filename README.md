@@ -10,10 +10,10 @@ In this repo I upload everything I do related to data structures and algorithm t
 :negative_squared_cross_mark: : If the implementation incomplete or untested.
 
 # Linked List
-* :white_check_mark: [LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/LinkedList.py)
+* :white_check_mark: [LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/LinkedList.py) 
 * :white_check_mark: [Circular LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/CircularSinglyLinkedList.py)
 * :white_check_mark: [Doubly LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/DoublyLinkedList.py)
-* :white_check_mark: [Queue with LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/QueueLinkedList.py)
+* :white_check_mark: [Queue with LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/LinkedList/QueueLinkedList.py) - Implemented Queue with Singly Linked list
 
 <!-- | Name | Completed | Tested |
 | :----: | :----: | :----: |
@@ -25,7 +25,7 @@ In this repo I upload everything I do related to data structures and algorithm t
 
 # Tree
 * :white_check_mark: [Binary Tree By LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreeLL.py)
-* :negative_squared_cross_mark: [Binary Tree By PythonList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreePL.py)
+* :negative_squared_cross_mark: [Binary Tree By PythonList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreePL.py) - Some Implementation is left
 
 <!-- | Name | Completed | Tested |
 | :----: | :----: | :----: |
