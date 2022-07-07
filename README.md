@@ -25,7 +25,7 @@ In this repo I upload everything I do related to data structures and algorithm t
 
 # Tree
 * :white_check_mark: [Binary Tree By LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreeLL.py)
-* :negative_squared_cross_mark: [Binary Tree By PythonList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreePL.py) - Some Implementation is left
+* :white_check_mark: [Binary Tree By PythonList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreePL.py) 
 
 <!-- | Name | Completed | Tested |
 | :----: | :----: | :----: |
