@@ -5,4 +5,5 @@ This repository contains my answers to all Leetcode/HackerRank algorithm questio
 ## List of Problems
 | # | Problem | Solution |
 | :----: | :-----------------------------: | :----: |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| [python3]() |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| [python3](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/coding_solutions/interview_related/TwoSum.py) |
+    
