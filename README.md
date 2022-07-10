@@ -18,6 +18,7 @@ In this repo I upload everything I do related to data structures and algorithm t
 * Data Structure & ALgorithm Implementation
   * [Linked List](#linked-list)
   * [Tree](#tree)
+  * [Binary Search Tree](#binary-search-tree)
 
 
 # Linked List
@@ -43,6 +44,8 @@ In this repo I upload everything I do related to data structures and algorithm t
 | [Binary Tree By LinkedList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreeLL.py) |  :white_check_mark: | :white_check_mark: |
 | [Binary Tree By PythonList](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/Tree/BinaryTreePL.py) | :negative_squared_cross_mark: | :negative_squared_cross_mark: | -->
 
+# Binary Search Tree
+* :white_check_mark: [Binary Search Tree](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/BinarySearchTree/BST.py)
 
 # Contributing
 I appreciate feedback on potential improvements and/or if you see an error that I've made! Also if you would like to contribute then do a pull request with algorithm implementation & tests! :)
