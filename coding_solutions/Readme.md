@@ -6,4 +6,7 @@ This repository contains my answers to all Leetcode/HackerRank algorithm questio
 | # | Problem | Solution |
 | :----: | :-----------------------------: | :----: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| [python3](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/coding_solutions/interview_related/TwoSum.py) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [python3](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/coding_solutions/interview_related/AddTwoNum.py) |
+| 3 | [Two Sum](https://leetcode.com/problems/two-sum/)| [python3](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/coding_solutions/interview_related/TwoSum.py) |
+| 4 | [Two Sum](https://leetcode.com/problems/two-sum/)| [python3](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/blob/master/coding_solutions/interview_related/TwoSum.py) |
     
