@@ -14,8 +14,9 @@ In this repo I upload everything I do related to data structures and algorithm t
   * [Interview Related](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/tree/master/coding_solutions)
   * Data Structure Related
     * [LinkedList Related](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/tree/master/coding_solutions/DataStructure_related/LinkedList)
+    * [Binary Tree Related](https://github.com/sushant097/Data-Structure-Algorithms-Collections-Python/tree/master/coding_solutions/DataStructure_related/Tree)
 
-* Data Structure & ALgorithm Implementation
+* Data Structure & ALgorithm Implementation)
   * [Linked List](#linked-list)
   * [Tree](#tree)
   * [Binary Search Tree](#binary-search-tree)
