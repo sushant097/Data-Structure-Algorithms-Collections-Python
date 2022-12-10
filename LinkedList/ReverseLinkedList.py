@@ -12,6 +12,20 @@ def reverse_iterative(self):
         
     self.head = prev
     
+def reverse_recursive(self):
+    
+    def _reverse_recursive(cur, prev):
+        if not cur:
+            return prev
+        
+        nxt = cur.next
+        cur.next = prev
+        prev = cur
+        cur = nxt
+        return _reverse_recursive(cur, prev)
+    
+    self._reverse_recursive(cur=self.head, prev=None)
+    
 
 class Node:
     def __init__(self, data):
